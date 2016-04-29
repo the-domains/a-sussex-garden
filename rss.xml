@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[An online diary and information on our Sussex Garden]]></title>
         <description><![CDATA[An online diary and information on our Sussex Garden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-sussex-garden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:25:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 17:41:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-sussex-garden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A potted history of the garden]]></title>
+            <description><![CDATA[<article><h1>A potted history of the garden</h1><p>The house was built in 1949 – the first one of six in a cornfield - by generation 1. The plot is on the south edge of a small Sussex village. The house and garden face south with a distant view of the South Downs.</p></article>]]></description>
+            <link>https://thegrid.ai/a-sussex-garden/a-potted-history-of-the-garden/index.html</link>
+            <guid isPermaLink="false">313a64c3-6f59-46c9-add4-45e1d8c3cd95</guid>
+            <pubDate>Fri, 29 Apr 2016 17:41:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First things first]]></title>
             <description><![CDATA[<p>Who we are and what we are nattering about.... well the first is quite easy.... a husband and wife team where he is the keen photographer and she is the (slightly obsessive) gardener.</p>]]></description>
-            <link>undefinedfirst-things-first/index.html</link>
+            <link>https://thegrid.ai/a-sussex-garden/first-things-first/index.html</link>
             <guid isPermaLink="false">4e8e3ba9-2690-414f-849f-7b7e3d172f23</guid>
             <pubDate>Fri, 29 Apr 2016 17:25:30 GMT</pubDate>
         </item>
