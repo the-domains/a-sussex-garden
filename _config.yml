@@ -1,0 +1,28 @@
+name: A Sussex Garden
+favicon: null
+layout_spectrum: 0.973505906527862
+typography_spectrum: 0.16043834132142365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8371024657972157
+  lightness: 0.9060799505095929
+  saturation: 0.616397479083389
+  rhythmicContrast: 0.8338699727319181
+purpose: []
