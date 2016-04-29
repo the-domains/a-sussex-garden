@@ -2,12 +2,13 @@ name: A Sussex Garden
 favicon: null
 layout_spectrum: 0.973505906527862
 typography_spectrum: 0.16043834132142365
+title: An online diary and information on our Sussex Garden
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77131740-1
   facebook: null
   twitter: null
 opengraph:
