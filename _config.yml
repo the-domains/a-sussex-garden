@@ -1,7 +1,7 @@
 name: A Sussex Garden
 favicon: null
-layout_spectrum: 0.973505906527862
-typography_spectrum: 0.16043834132142365
+layout_spectrum: 1
+typography_spectrum: 0.17419
 title: An online diary and information on our Sussex Garden
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.8371024657972157
+  brandStrength: 0.1875
   lightness: 0.9060799505095929
-  saturation: 0.616397479083389
+  saturation: 0.6875
   rhythmicContrast: 0.8338699727319181
 purpose: []
